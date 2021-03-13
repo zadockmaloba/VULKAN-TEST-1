@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zadock/projects/Vulkan_test1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/vulkan_test1.dir/main.cpp.o -c /home/zadock/projects/Vulkan_test1/main.cpp",
+  "file": "/home/zadock/projects/Vulkan_test1/main.cpp"
+}
+]

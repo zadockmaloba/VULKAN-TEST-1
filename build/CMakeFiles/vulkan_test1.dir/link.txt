@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/vulkan_test1.dir/main.cpp.o  -o vulkan_test1  -lglfw -lvulkan -ldl -lpthread -lX11 -lXrandr -lXi 
